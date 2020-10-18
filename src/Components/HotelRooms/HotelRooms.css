@@ -1,0 +1,19 @@
+.room{
+    width: 400px;
+    height: 200px;
+}
+.book-room-details{
+    color:black;
+}
+.book-room{
+    padding:10px;
+    color:black;
+}
+.room-details{
+    margin:10px;
+}
+div{
+    font-family:'Montserrat';
+    font-weight:bold;
+    background-size:cover;
+}
